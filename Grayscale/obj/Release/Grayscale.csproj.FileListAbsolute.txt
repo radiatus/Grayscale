@@ -1,0 +1,8 @@
+D:\ProjectCode\Csharp\Grayscale\Grayscale\bin\Release\Grayscale.exe.config
+D:\ProjectCode\Csharp\Grayscale\Grayscale\bin\Release\Grayscale.exe
+D:\ProjectCode\Csharp\Grayscale\Grayscale\bin\Release\Grayscale.pdb
+D:\ProjectCode\Csharp\Grayscale\Grayscale\obj\Release\Grayscale.Form1.resources
+D:\ProjectCode\Csharp\Grayscale\Grayscale\obj\Release\Grayscale.Properties.Resources.resources
+D:\ProjectCode\Csharp\Grayscale\Grayscale\obj\Release\Grayscale.csproj.GenerateResource.Cache
+D:\ProjectCode\Csharp\Grayscale\Grayscale\obj\Release\Grayscale.exe
+D:\ProjectCode\Csharp\Grayscale\Grayscale\obj\Release\Grayscale.pdb
